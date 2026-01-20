@@ -15,6 +15,7 @@ Ensured referential integrity across tables
 
 Prepared the dataset for downstream exploratory analysis
 
+The cleaned version is world_layoffs_staging2.sql
 
 A public, non-sensitive dataset used for practicing SQL-based cleaning and normalization workflows.
 (No raw data files included for privacy and to avoid repository weight.)
